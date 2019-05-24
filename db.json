@@ -1,14 +1,1 @@
-{
- shows:[
-   {
-     title: "show1,
-     category: "show2",
-     url: "/show1"
-   },
-   {
-     title: "show1,
-     category: "show2",
-     url: "/show1"
-   }
- ]
-}
+
