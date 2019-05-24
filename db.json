@@ -1,14 +1,20 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  shows: [
+    { 
+      title: `show1`, 
+      category: 'broadway', 
+      url: '/show1',
+    },
+    {
+      title: `show2`,
+      category: 'off-broadway',
+      url: '/show2',
+    },
+    {
+      title: `show3`,
+      category: 'broadway',
+      url: '/show3',
+    },
+    // ...etc
+  ]
 }
