@@ -1,9 +1,7 @@
 {
-  "shows": [
-    { 
-      "title": "show1", 
-      "category": "broadway", 
-      "url": "/show1",
-    }
-  ]
+	"shows": [{
+		"title": "show1",
+		"category": "broadway",
+		"url": "/show1"
+	}]
 }
