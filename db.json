@@ -1,14 +1,14 @@
 {
-  shows: [
-    { 
-      title: `show1`, 
-      category: 'broadway', 
-      url: '/show1',
-    },
-    {
-      title: `show2`,
-      category: 'off-broadway',
-      url: '/show2',
-    }
-  ]
+ shows:[
+   {
+     title: "show1,
+     category: "show2",
+     url: "/show1"
+   },
+   {
+     title: "show1,
+     category: "show2",
+     url: "/show1"
+   }
+ ]
 }
