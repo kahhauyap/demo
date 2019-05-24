@@ -9,11 +9,6 @@
       title: `show2`,
       category: 'off-broadway',
       url: '/show2',
-    },
-    {
-      title: `show3`,
-      category: 'broadway',
-      url: '/show3',
     }
   ]
 }
