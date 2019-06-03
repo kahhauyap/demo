@@ -1,5 +1,6 @@
 {
-	"shows": [{
+	"broadwaycom":{
+		"shows": [{
 			"title": "show1",
 			"category": "broadway",
 			"url": "/show1"
@@ -15,4 +16,5 @@
 			"url": "/show1"
 		}
 	]
+	}
 }
